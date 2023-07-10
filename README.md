@@ -8,7 +8,7 @@ Software simples feito em python, com o objetivo de salvar screenshots de forma 
 
 
 
-## **[Download v1.0.0](https://github.com/seu-usuario/captura-de-frames/releases/tag/v1.0.0)** 
+## **[Download v1.0.0](https://github.com/kimkjin/thumbM/releases/tag/v1.0)** 
 
 ## Recursos
 - Screenshot randomica de frames de um vídeos
